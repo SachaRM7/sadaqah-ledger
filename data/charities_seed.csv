@@ -1,0 +1,201 @@
+name,country,registration_number,website,cause,verified_at,verification_source,fraud_count,is_active
+Sadaqah Relief Network 001,US,US-100001,https://example001.org,food,2026-01-01T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 002,UK,UK-100002,https://example002.org,education,2026-02-02T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 003,CA,CA-100003,https://example003.org,emergency,2026-03-03T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 004,AE,AE-100004,https://example004.org,water,2026-04-04T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 005,PK,PK-100005,https://example005.org,orphans,2026-05-05T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 006,US,US-100006,https://example006.org,health,2026-06-06T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 007,UK,UK-100007,https://example007.org,food,2026-07-07T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 008,CA,CA-100008,https://example008.org,education,2026-08-08T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 009,AE,AE-100009,https://example009.org,emergency,2026-09-09T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 010,PK,PK-100010,https://example010.org,water,2026-10-10T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 011,US,US-100011,https://example011.org,orphans,2026-11-11T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 012,UK,UK-100012,https://example012.org,health,2026-12-12T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 013,CA,CA-100013,https://example013.org,food,2026-01-13T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 014,AE,AE-100014,https://example014.org,education,2026-02-14T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 015,PK,PK-100015,https://example015.org,emergency,2026-03-15T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 016,US,US-100016,https://example016.org,water,2026-04-16T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 017,UK,UK-100017,https://example017.org,orphans,2026-05-17T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 018,CA,CA-100018,https://example018.org,health,2026-06-18T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 019,AE,AE-100019,https://example019.org,food,2026-07-19T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 020,PK,PK-100020,https://example020.org,education,2026-08-20T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 021,US,US-100021,https://example021.org,emergency,2026-09-21T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 022,UK,UK-100022,https://example022.org,water,2026-10-22T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 023,CA,CA-100023,https://example023.org,orphans,2026-11-23T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 024,AE,AE-100024,https://example024.org,health,2026-12-24T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 025,PK,PK-100025,https://example025.org,food,2026-01-25T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 026,US,US-100026,https://example026.org,education,2026-02-26T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 027,UK,UK-100027,https://example027.org,emergency,2026-03-27T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 028,CA,CA-100028,https://example028.org,water,2026-04-28T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 029,AE,AE-100029,https://example029.org,orphans,2026-05-01T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 030,PK,PK-100030,https://example030.org,health,2026-06-02T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 031,US,US-100031,https://example031.org,food,2026-07-03T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 032,UK,UK-100032,https://example032.org,education,2026-08-04T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 033,CA,CA-100033,https://example033.org,emergency,2026-09-05T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 034,AE,AE-100034,https://example034.org,water,2026-10-06T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 035,PK,PK-100035,https://example035.org,orphans,2026-11-07T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 036,US,US-100036,https://example036.org,health,2026-12-08T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 037,UK,UK-100037,https://example037.org,food,2026-01-09T12:00:00+00:00,Charity Commission,1,1
+Sadaqah Relief Network 038,CA,CA-100038,https://example038.org,education,2026-02-10T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 039,AE,AE-100039,https://example039.org,emergency,2026-03-11T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 040,PK,PK-100040,https://example040.org,water,2026-04-12T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 041,US,US-100041,https://example041.org,orphans,2026-05-13T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 042,UK,UK-100042,https://example042.org,health,2026-06-14T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 043,CA,CA-100043,https://example043.org,food,2026-07-15T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 044,AE,AE-100044,https://example044.org,education,2026-08-16T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 045,PK,PK-100045,https://example045.org,emergency,2026-09-17T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 046,US,US-100046,https://example046.org,water,2026-10-18T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 047,UK,UK-100047,https://example047.org,orphans,2026-11-19T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 048,CA,CA-100048,https://example048.org,health,2026-12-20T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 049,AE,AE-100049,https://example049.org,food,2026-01-21T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 050,PK,PK-100050,https://example050.org,education,2026-02-22T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 051,US,US-100051,https://example051.org,emergency,2026-03-23T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 052,UK,UK-100052,https://example052.org,water,2026-04-24T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 053,CA,CA-100053,https://example053.org,orphans,2026-05-25T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 054,AE,AE-100054,https://example054.org,health,2026-06-26T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 055,PK,PK-100055,https://example055.org,food,2026-07-27T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 056,US,US-100056,https://example056.org,education,2026-08-28T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 057,UK,UK-100057,https://example057.org,emergency,2026-09-01T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 058,CA,CA-100058,https://example058.org,water,2026-10-02T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 059,AE,AE-100059,https://example059.org,orphans,2026-11-03T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 060,PK,PK-100060,https://example060.org,health,2026-12-04T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 061,US,US-100061,https://example061.org,food,2026-01-05T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 062,UK,UK-100062,https://example062.org,education,2026-02-06T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 063,CA,CA-100063,https://example063.org,emergency,2026-03-07T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 064,AE,AE-100064,https://example064.org,water,2026-04-08T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 065,PK,PK-100065,https://example065.org,orphans,2026-05-09T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 066,US,US-100066,https://example066.org,health,2026-06-10T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 067,UK,UK-100067,https://example067.org,food,2026-07-11T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 068,CA,CA-100068,https://example068.org,education,2026-08-12T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 069,AE,AE-100069,https://example069.org,emergency,2026-09-13T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 070,PK,PK-100070,https://example070.org,water,2026-10-14T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 071,US,US-100071,https://example071.org,orphans,2026-11-15T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 072,UK,UK-100072,https://example072.org,health,2026-12-16T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 073,CA,CA-100073,https://example073.org,food,2026-01-17T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 074,AE,AE-100074,https://example074.org,education,2026-02-18T12:00:00+00:00,manual,1,1
+Sadaqah Relief Network 075,PK,PK-100075,https://example075.org,emergency,2026-03-19T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 076,US,US-100076,https://example076.org,water,2026-04-20T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 077,UK,UK-100077,https://example077.org,orphans,2026-05-21T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 078,CA,CA-100078,https://example078.org,health,2026-06-22T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 079,AE,AE-100079,https://example079.org,food,2026-07-23T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 080,PK,PK-100080,https://example080.org,education,2026-08-24T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 081,US,US-100081,https://example081.org,emergency,2026-09-25T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 082,UK,UK-100082,https://example082.org,water,2026-10-26T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 083,CA,CA-100083,https://example083.org,orphans,2026-11-27T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 084,AE,AE-100084,https://example084.org,health,2026-12-28T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 085,PK,PK-100085,https://example085.org,food,2026-01-01T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 086,US,US-100086,https://example086.org,education,2026-02-02T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 087,UK,UK-100087,https://example087.org,emergency,2026-03-03T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 088,CA,CA-100088,https://example088.org,water,2026-04-04T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 089,AE,AE-100089,https://example089.org,orphans,2026-05-05T12:00:00+00:00,manual,0,0
+Sadaqah Relief Network 090,PK,PK-100090,https://example090.org,health,2026-06-06T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 091,US,US-100091,https://example091.org,food,2026-07-07T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 092,UK,UK-100092,https://example092.org,education,2026-08-08T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 093,CA,CA-100093,https://example093.org,emergency,2026-09-09T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 094,AE,AE-100094,https://example094.org,water,2026-10-10T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 095,PK,PK-100095,https://example095.org,orphans,2026-11-11T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 096,US,US-100096,https://example096.org,health,2026-12-12T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 097,UK,UK-100097,https://example097.org,food,2026-01-13T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 098,CA,CA-100098,https://example098.org,education,2026-02-14T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 099,AE,AE-100099,https://example099.org,emergency,2026-03-15T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 100,PK,PK-100100,https://example100.org,water,2026-04-16T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 101,US,US-100101,https://example101.org,orphans,2026-05-17T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 102,UK,UK-100102,https://example102.org,health,2026-06-18T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 103,CA,CA-100103,https://example103.org,food,2026-07-19T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 104,AE,AE-100104,https://example104.org,education,2026-08-20T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 105,PK,PK-100105,https://example105.org,emergency,2026-09-21T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 106,US,US-100106,https://example106.org,water,2026-10-22T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 107,UK,UK-100107,https://example107.org,orphans,2026-11-23T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 108,CA,CA-100108,https://example108.org,health,2026-12-24T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 109,AE,AE-100109,https://example109.org,food,2026-01-25T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 110,PK,PK-100110,https://example110.org,education,2026-02-26T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 111,US,US-100111,https://example111.org,emergency,2026-03-27T12:00:00+00:00,IRS,1,1
+Sadaqah Relief Network 112,UK,UK-100112,https://example112.org,water,2026-04-28T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 113,CA,CA-100113,https://example113.org,orphans,2026-05-01T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 114,AE,AE-100114,https://example114.org,health,2026-06-02T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 115,PK,PK-100115,https://example115.org,food,2026-07-03T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 116,US,US-100116,https://example116.org,education,2026-08-04T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 117,UK,UK-100117,https://example117.org,emergency,2026-09-05T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 118,CA,CA-100118,https://example118.org,water,2026-10-06T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 119,AE,AE-100119,https://example119.org,orphans,2026-11-07T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 120,PK,PK-100120,https://example120.org,health,2026-12-08T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 121,US,US-100121,https://example121.org,food,2026-01-09T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 122,UK,UK-100122,https://example122.org,education,2026-02-10T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 123,CA,CA-100123,https://example123.org,emergency,2026-03-11T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 124,AE,AE-100124,https://example124.org,water,2026-04-12T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 125,PK,PK-100125,https://example125.org,orphans,2026-05-13T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 126,US,US-100126,https://example126.org,health,2026-06-14T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 127,UK,UK-100127,https://example127.org,food,2026-07-15T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 128,CA,CA-100128,https://example128.org,education,2026-08-16T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 129,AE,AE-100129,https://example129.org,emergency,2026-09-17T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 130,PK,PK-100130,https://example130.org,water,2026-10-18T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 131,US,US-100131,https://example131.org,orphans,2026-11-19T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 132,UK,UK-100132,https://example132.org,health,2026-12-20T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 133,CA,CA-100133,https://example133.org,food,2026-01-21T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 134,AE,AE-100134,https://example134.org,education,2026-02-22T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 135,PK,PK-100135,https://example135.org,emergency,2026-03-23T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 136,US,US-100136,https://example136.org,water,2026-04-24T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 137,UK,UK-100137,https://example137.org,orphans,2026-05-25T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 138,CA,CA-100138,https://example138.org,health,2026-06-26T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 139,AE,AE-100139,https://example139.org,food,2026-07-27T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 140,PK,PK-100140,https://example140.org,education,2026-08-28T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 141,US,US-100141,https://example141.org,emergency,2026-09-01T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 142,UK,UK-100142,https://example142.org,water,2026-10-02T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 143,CA,CA-100143,https://example143.org,orphans,2026-11-03T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 144,AE,AE-100144,https://example144.org,health,2026-12-04T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 145,PK,PK-100145,https://example145.org,food,2026-01-05T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 146,US,US-100146,https://example146.org,education,2026-02-06T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 147,UK,UK-100147,https://example147.org,emergency,2026-03-07T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 148,CA,CA-100148,https://example148.org,water,2026-04-08T12:00:00+00:00,CRA,1,1
+Sadaqah Relief Network 149,AE,AE-100149,https://example149.org,orphans,2026-05-09T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 150,PK,PK-100150,https://example150.org,health,2026-06-10T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 151,US,US-100151,https://example151.org,food,2026-07-11T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 152,UK,UK-100152,https://example152.org,education,2026-08-12T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 153,CA,CA-100153,https://example153.org,emergency,2026-09-13T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 154,AE,AE-100154,https://example154.org,water,2026-10-14T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 155,PK,PK-100155,https://example155.org,orphans,2026-11-15T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 156,US,US-100156,https://example156.org,health,2026-12-16T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 157,UK,UK-100157,https://example157.org,food,2026-01-17T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 158,CA,CA-100158,https://example158.org,education,2026-02-18T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 159,AE,AE-100159,https://example159.org,emergency,2026-03-19T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 160,PK,PK-100160,https://example160.org,water,2026-04-20T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 161,US,US-100161,https://example161.org,orphans,2026-05-21T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 162,UK,UK-100162,https://example162.org,health,2026-06-22T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 163,CA,CA-100163,https://example163.org,food,2026-07-23T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 164,AE,AE-100164,https://example164.org,education,2026-08-24T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 165,PK,PK-100165,https://example165.org,emergency,2026-09-25T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 166,US,US-100166,https://example166.org,water,2026-10-26T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 167,UK,UK-100167,https://example167.org,orphans,2026-11-27T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 168,CA,CA-100168,https://example168.org,health,2026-12-28T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 169,AE,AE-100169,https://example169.org,food,2026-01-01T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 170,PK,PK-100170,https://example170.org,education,2026-02-02T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 171,US,US-100171,https://example171.org,emergency,2026-03-03T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 172,UK,UK-100172,https://example172.org,water,2026-04-04T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 173,CA,CA-100173,https://example173.org,orphans,2026-05-05T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 174,AE,AE-100174,https://example174.org,health,2026-06-06T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 175,PK,PK-100175,https://example175.org,food,2026-07-07T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 176,US,US-100176,https://example176.org,education,2026-08-08T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 177,UK,UK-100177,https://example177.org,emergency,2026-09-09T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 178,CA,CA-100178,https://example178.org,water,2026-10-10T12:00:00+00:00,CRA,0,0
+Sadaqah Relief Network 179,AE,AE-100179,https://example179.org,orphans,2026-11-11T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 180,PK,PK-100180,https://example180.org,health,2026-12-12T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 181,US,US-100181,https://example181.org,food,2026-01-13T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 182,UK,UK-100182,https://example182.org,education,2026-02-14T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 183,CA,CA-100183,https://example183.org,emergency,2026-03-15T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 184,AE,AE-100184,https://example184.org,water,2026-04-16T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 185,PK,PK-100185,https://example185.org,orphans,2026-05-17T12:00:00+00:00,Ministry Registry,1,1
+Sadaqah Relief Network 186,US,US-100186,https://example186.org,health,2026-06-18T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 187,UK,UK-100187,https://example187.org,food,2026-07-19T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 188,CA,CA-100188,https://example188.org,education,2026-08-20T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 189,AE,AE-100189,https://example189.org,emergency,2026-09-21T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 190,PK,PK-100190,https://example190.org,water,2026-10-22T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 191,US,US-100191,https://example191.org,orphans,2026-11-23T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 192,UK,UK-100192,https://example192.org,health,2026-12-24T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 193,CA,CA-100193,https://example193.org,food,2026-01-25T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 194,AE,AE-100194,https://example194.org,education,2026-02-26T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 195,PK,PK-100195,https://example195.org,emergency,2026-03-27T12:00:00+00:00,Ministry Registry,0,1
+Sadaqah Relief Network 196,US,US-100196,https://example196.org,water,2026-04-28T12:00:00+00:00,IRS,0,1
+Sadaqah Relief Network 197,UK,UK-100197,https://example197.org,orphans,2026-05-01T12:00:00+00:00,Charity Commission,0,1
+Sadaqah Relief Network 198,CA,CA-100198,https://example198.org,health,2026-06-02T12:00:00+00:00,CRA,0,1
+Sadaqah Relief Network 199,AE,AE-100199,https://example199.org,food,2026-07-03T12:00:00+00:00,manual,0,1
+Sadaqah Relief Network 200,PK,PK-100200,https://example200.org,education,2026-08-04T12:00:00+00:00,Ministry Registry,0,1
