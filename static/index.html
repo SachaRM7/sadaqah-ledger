@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SadaqahLedger</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <h1>SadaqahLedger</h1>
+      <p>Open-source Zakat calculator, charity verification registry, and transparent donation ledger.</p>
+      <div class="hero-badges">
+        <span>Client-side Zakat calculations</span>
+        <span>Verified charity directory</span>
+        <span>Tamper-evident donation ledger</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card">
+      <h2>Zakat Calculator</h2>
+      <form id="zakat-form" class="grid-form">
+        <label>Cash Savings<input type="number" step="0.01" name="cash_savings" value="10000"></label>
+        <label>Gold Weight (grams)<input type="number" step="0.01" name="gold_weight_grams" value="0"></label>
+        <label>Silver Weight (grams)<input type="number" step="0.01" name="silver_weight_grams" value="0"></label>
+        <label>Stocks Value<input type="number" step="0.01" name="stocks_value" value="0"></label>
+        <label>Crypto Value<input type="number" step="0.01" name="crypto_value" value="0"></label>
+        <label>Business Inventory Value<input type="number" step="0.01" name="business_inventory_value" value="0"></label>
+        <label>Debts Owed<input type="number" step="0.01" name="debts_owed" value="0"></label>
+        <label>Jurisprudence School
+          <select name="school">
+            <option value="hanafi">Hanafi</option>
+            <option value="shafi">Shafi</option>
+            <option value="maliki">Maliki</option>
+            <option value="hanbali">Hanbali</option>
+          </select>
+        </label>
+        <label>Last Zakat Payment Date<input type="date" name="last_payment_date"></label>
+        <button type="submit">Calculate Zakat</button>
+      </form>
+      <div id="zakat-result" class="result-panel"></div>
+    </section>
+
+    <section class="card">
+      <h2>Charity Verification Registry</h2>
+      <div class="toolbar">
+        <input type="search" id="charity-search" placeholder="Search charities by name or website">
+        <select id="charity-country">
+          <option value="">All countries</option>
+          <option value="US">US</option>
+          <option value="UK">UK</option>
+          <option value="CA">CA</option>
+          <option value="AE">AE</option>
+          <option value="PK">PK</option>
+        </select>
+        <select id="charity-cause">
+          <option value="">All causes</option>
+          <option value="food">Food</option>
+          <option value="education">Education</option>
+          <option value="emergency">Emergency</option>
+          <option value="water">Water</option>
+          <option value="orphans">Orphans</option>
+          <option value="health">Health</option>
+        </select>
+        <button id="load-charities" type="button">Search</button>
+      </div>
+      <div id="charity-list" class="list"></div>
+    </section>
+
+    <section class="card">
+      <h2>Public Donation Ledger</h2>
+      <form id="ledger-form" class="grid-form compact">
+        <label>Charity Name<input type="text" name="charity_name" placeholder="Islamic Relief"></label>
+        <label>Amount<input type="number" step="0.01" name="amount" placeholder="50"></label>
+        <label>Currency<input type="text" name="currency" value="USD"></label>
+        <button type="submit">Record Donation</button>
+      </form>
+      <div class="toolbar">
+        <button id="verify-ledger" type="button">Verify Ledger</button>
+      </div>
+      <pre id="ledger-output" class="code-box"></pre>
+    </section>
+
+    <section class="card">
+      <h2>Zakat Reminders</h2>
+      <form id="reminder-form" class="grid-form compact">
+        <label>Telegram ID<input type="text" name="telegram_id" placeholder="12345678"></label>
+        <label>Email<input type="email" name="email" placeholder="you@example.com"></label>
+        <label>Zakat Due Date<input type="date" name="zakat_due_date"></label>
+        <button type="submit">Save Reminder</button>
+      </form>
+      <div id="reminder-output" class="result-panel"></div>
+    </section>
+  </main>
+
+  <script src="/static/js/calculator.js"></script>
+  <script src="/static/js/ledger.js"></script>
+  <script src="/static/js/reminders.js"></script>
+</body>
+</html>
